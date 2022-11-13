@@ -1,9 +1,8 @@
 .header__lang-links {
-    display: flex;
-    flex-direction: row;
-    gap: 0 18px;
-    align-items: flex-end;
-    padding-bottom: 4px;
-    
+  display: flex;
+  flex-direction: row;
+  gap: 0 18px;
+  align-items: flex-end;
+  padding-bottom: 4px;  
 }
 
