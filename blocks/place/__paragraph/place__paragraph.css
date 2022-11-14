@@ -11,6 +11,11 @@
   margin-bottom: 0;
 }
 
+@media screen and (max-width: 1024px) {
+  .place__paragraph {
+    margin-bottom: 26px;
+  }
+}
 @media screen and (max-width: 768px) {
     .place__paragraph {
       margin-bottom: 25px;
@@ -21,12 +26,3 @@
     }   
 }
 
-@media screen and (max-width: 320px) {
-    .place__paragraph {
-      margin-bottom: 25px;
-      row-gap: 73px;
-      font-size: 16px;
-      font-weight: 400;
-      line-height: 26.08px;
-    }   
-}
