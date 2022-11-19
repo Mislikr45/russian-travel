@@ -5,7 +5,7 @@
   row-gap: 80px;
 }
 
-@media screen and (max-width: 1024px) {
+@media screen and (max-width: 1279px) {
   .places {
     margin: 93px 48px 0 48px;  
   }   
